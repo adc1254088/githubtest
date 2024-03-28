@@ -22,5 +22,6 @@ int main()
     printf("%d\n",&dp);
     free(dp->t1);
     free(dp);
+    printf("测试一下");
     return 0;
 }
